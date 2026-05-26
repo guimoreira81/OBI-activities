@@ -1,0 +1,4 @@
+/*
+Camisetas da olimpíada
+https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/
+*/
