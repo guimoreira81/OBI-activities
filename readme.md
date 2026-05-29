@@ -5,3 +5,7 @@ Página para pegar exercícios: https://olimpiada.ic.unicamp.br/pratique/p2/exem
 
 Interpretador Nodejs Online: https://onecompiler.com/nodejs/ (colocar o texto do input na seção STDIN)
 ou usar o Console do Google Cloud: https://console.cloud.google.com/welcome/new?cloudshell=true
+
+Na OBI, normalmente você pode assumir que:
+a entrada sempre será válida
+os números estarão nas restrições
