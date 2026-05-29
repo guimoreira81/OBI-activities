@@ -1,2 +1,2 @@
-idades = sorted([int(input()) for i in range(3)])
-print(idades[1])
+resposta = sorted([int(input()) for i in range(3)])[1]
+print(resposta)
